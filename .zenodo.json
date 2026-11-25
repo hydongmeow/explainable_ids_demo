@@ -1,0 +1,11 @@
+{
+  "title": "Explainable intrusion detection: tutorial notebooks accompanying \"An Evolution of Explainable Intrusion Detection: From Statistical Foundations to Large Language Models\"",
+  "upload_type": "software",
+  "description": "Jupyter notebooks demonstrating inherently explainable models (correlation, linear regression, PCA, decision trees, SVM, kNN, fuzzy logic) and post-hoc explanations (SHAP, LIME) for intrusion detection. Companion material to the survey \"An Evolution of Explainable Intrusion Detection: From Statistical Foundations to Large Language Models\".",
+  "creators": [
+    {"name": "Dong, Huiyao", "affiliation": "Interdisciplinary Research Center for Intelligent Secure Systems, KFUPM"}
+  ],
+  "keywords": ["intrusion detection", "explainable artificial intelligence", "XAI", "SHAP", "LIME"],
+  "license": "mit",
+  "access_right": "open"
+}
